@@ -5,4 +5,4 @@ Silakan gunakan format berikut:<br>
 **\* Nama, [LinkedIn/GitHub/Website](Alamat URL).**  
 
 Berikut adalah daftar Volunter yang diterima:
-* Icip, [Github](https://github.com/icip-belajar)
+* Icip, [Github](https://github.com/icip-belajar "Kunjungi Github aku ya")
